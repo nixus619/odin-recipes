@@ -1,0 +1,31 @@
+h1 {
+    color: darkgreen;
+    background-color: black;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.Images{
+    height: 200px;
+    width: 400px;
+}
+
+p {
+    font-weight: bold;
+}
+
+.ingredients {
+    color: red;
+}
+
+.important {
+    font-weight: bold;
+    color: darkred;
+}
+
+.steps {
+    color: aquamarine;
+}
+
+.steps .optional {
+    color: yellow;
+}
